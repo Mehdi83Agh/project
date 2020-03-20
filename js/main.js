@@ -1,1 +1,1 @@
-alert('Best WISHES For ya')
+prompt('Best WISHES For ya')
